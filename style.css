@@ -6,3 +6,12 @@ html {
 *::after {
   box-sizing: inherit;
 }
+
+.main-header {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+  background-color: #008080;
+  padding: 10px;
+  border-radius: 7px;
+}
