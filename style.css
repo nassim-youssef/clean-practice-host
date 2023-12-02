@@ -7,6 +7,10 @@ html {
   box-sizing: inherit;
 }
 
+
+* {
+  background-color: #dddbcb;
+}
 .main-header {
   text-align: center;
   font-family: 'Courier New', Courier, monospace;
